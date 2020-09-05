@@ -1,3 +1,3 @@
 # WordPress Custom Theme
 
-Custom Theme foe E-commerce working with Woocomerce Plugin
+Custom Theme for E-commerce working with Woocomerce Plugin
